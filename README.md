@@ -1,2 +1,0 @@
-# ExpenseApp
-ExpenseApp
