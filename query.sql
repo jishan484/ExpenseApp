@@ -9,3 +9,4 @@ CREATE TABLE `expense` (
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
 
 select * from expense;
+
